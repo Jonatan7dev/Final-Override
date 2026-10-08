@@ -1,0 +1,2069 @@
+fileFormatVersion: 2
+guid: 132bce8a67fdf4546b1aea03811b2bc7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2575985625762253399
+    second: JohnSprite_0
+  - first:
+      213: -5307884875945838035
+    second: JohnSprite_1
+  - first:
+      213: -7118386483576653324
+    second: JohnSprite_2
+  - first:
+      213: 7608351675653814828
+    second: JohnSprite_3
+  - first:
+      213: 5609022480105633327
+    second: JohnSprite_4
+  - first:
+      213: -4581580993408501444
+    second: JohnSprite_5
+  - first:
+      213: 1511062004042738550
+    second: JohnSprite_6
+  - first:
+      213: 7238296443152103012
+    second: JohnSprite_7
+  - first:
+      213: -112191444809187522
+    second: JohnSprite_8
+  - first:
+      213: 2885640861397261479
+    second: JohnSprite_9
+  - first:
+      213: 8996925112880754362
+    second: JohnSprite_10
+  - first:
+      213: 1237580443646224024
+    second: JohnSprite_11
+  - first:
+      213: 7006184534751442451
+    second: JohnSprite_12
+  - first:
+      213: 8356106812296660646
+    second: JohnSprite_13
+  - first:
+      213: 8734712589367040225
+    second: JohnSprite_14
+  - first:
+      213: -8965972720484154969
+    second: JohnSprite_15
+  - first:
+      213: 1056604877617393510
+    second: JohnSprite_16
+  - first:
+      213: 6777500891971017291
+    second: JohnSprite_17
+  - first:
+      213: 665550028833393609
+    second: JohnSprite_18
+  - first:
+      213: -2109885876393465872
+    second: JohnSprite_19
+  - first:
+      213: -931606930019755204
+    second: JohnSprite_20
+  - first:
+      213: 836409040878572313
+    second: JohnSprite_21
+  - first:
+      213: 5324859569723116043
+    second: JohnSprite_22
+  - first:
+      213: -6961499420249501772
+    second: JohnSprite_23
+  - first:
+      213: -7719224393600585242
+    second: JohnSprite_24
+  - first:
+      213: -2040909569630102450
+    second: JohnSprite_25
+  - first:
+      213: 8816640867213275173
+    second: JohnSprite_26
+  - first:
+      213: 9106503629468376320
+    second: JohnSprite_27
+  - first:
+      213: 2040739689119114046
+    second: JohnSprite_28
+  - first:
+      213: 8278064638440329574
+    second: JohnSprite_29
+  - first:
+      213: 1402222603830047129
+    second: JohnSprite_30
+  - first:
+      213: -1593629578788061095
+    second: JohnSprite_31
+  - first:
+      213: -1504662205285074418
+    second: JohnSprite_32
+  - first:
+      213: 2532984191388864073
+    second: JohnSprite_33
+  - first:
+      213: -3133446856199169487
+    second: JohnSprite_34
+  - first:
+      213: -1462942057587498658
+    second: JohnSprite_35
+  - first:
+      213: 7764299340151427602
+    second: JohnSprite_36
+  - first:
+      213: 1625864381442984851
+    second: JohnSprite_37
+  - first:
+      213: -8639328555247851255
+    second: JohnSprite_38
+  - first:
+      213: 4720692615611519144
+    second: JohnSprite_39
+  - first:
+      213: 2332902855384565141
+    second: JohnSprite_40
+  - first:
+      213: -1076106496279247356
+    second: JohnSprite_41
+  - first:
+      213: 5528631814496476533
+    second: JohnSprite_42
+  - first:
+      213: -4262130147477490338
+    second: JohnSprite_43
+  - first:
+      213: -6757720347541982558
+    second: JohnSprite_44
+  - first:
+      213: 5580816119644989121
+    second: JohnSprite_45
+  - first:
+      213: -1167988669454551932
+    second: JohnSprite_46
+  - first:
+      213: -3769453752796246721
+    second: JohnSprite_47
+  - first:
+      213: 1539144677231822703
+    second: JohnSprite_48
+  - first:
+      213: -251120652153864764
+    second: JohnSprite_49
+  - first:
+      213: 5753837879086670234
+    second: JohnSprite_50
+  - first:
+      213: -6279548322423748663
+    second: JohnSprite_51
+  - first:
+      213: 1808657764651790378
+    second: JohnSprite_52
+  - first:
+      213: 4808695673807188849
+    second: JohnSprite_53
+  - first:
+      213: -1132545201949801475
+    second: JohnSprite_54
+  - first:
+      213: 495435651184905474
+    second: JohnSprite_55
+  - first:
+      213: -7469994676465998871
+    second: JohnSprite_56
+  - first:
+      213: -4125779052529217930
+    second: JohnSprite_57
+  - first:
+      213: -8217546647442351032
+    second: JohnSprite_58
+  - first:
+      213: -8048574319297116474
+    second: JohnSprite_59
+  - first:
+      213: 7921498235676809940
+    second: JohnSprite_60
+  - first:
+      213: 8979934043826011156
+    second: JohnSprite_61
+  - first:
+      213: -1442228576442919221
+    second: JohnSprite_62
+  - first:
+      213: 1618705627624586316
+    second: JohnSprite_63
+  - first:
+      213: 7663719010215953953
+    second: JohnSprite_64
+  - first:
+      213: -927754054338735084
+    second: JohnSprite_65
+  - first:
+      213: -8923316585792777838
+    second: JohnSprite_66
+  - first:
+      213: 3086910999925850740
+    second: JohnSprite_67
+  - first:
+      213: 3408109800697506526
+    second: JohnSprite_68
+  - first:
+      213: -8258378244553744576
+    second: JohnSprite_69
+  - first:
+      213: -2731557470702316320
+    second: JohnSprite_70
+  - first:
+      213: -7285714936171937344
+    second: JohnSprite_71
+  - first:
+      213: -5624295830537410186
+    second: JohnSprite_72
+  - first:
+      213: 752342012700233801
+    second: JohnSprite_73
+  - first:
+      213: -687968826236109562
+    second: JohnSprite_74
+  - first:
+      213: 4002519409767734826
+    second: JohnSprite_75
+  - first:
+      213: -2830475584635330209
+    second: JohnSprite_76
+  - first:
+      213: -547232296048050780
+    second: JohnSprite_77
+  - first:
+      213: 2058728635147986370
+    second: JohnSprite_78
+  - first:
+      213: -6105072175085686140
+    second: JohnSprite_79
+  - first:
+      213: -5723563403137238865
+    second: JohnSprite_80
+  - first:
+      213: -2609821766974342030
+    second: JohnSprite_81
+  - first:
+      213: 1209200312924082008
+    second: JohnSprite_82
+  - first:
+      213: 2076725393810961113
+    second: JohnSprite_83
+  - first:
+      213: 4906164761835612654
+    second: JohnSprite_84
+  - first:
+      213: -6639579818065771669
+    second: JohnSprite_85
+  - first:
+      213: 1448927811737087017
+    second: JohnSprite_86
+  - first:
+      213: 5907372487073515179
+    second: JohnSprite_87
+  - first:
+      213: 4659980900288576136
+    second: JohnSprite_88
+  - first:
+      213: 5644836155926634913
+    second: JohnSprite_89
+  - first:
+      213: 2973355944341798418
+    second: JohnSprite_90
+  - first:
+      213: -729227828219215321
+    second: JohnSprite_91
+  - first:
+      213: -7456389596192075850
+    second: JohnSprite_92
+  - first:
+      213: 7555237779118844435
+    second: JohnSprite_93
+  - first:
+      213: 655437943063049199
+    second: JohnSprite_94
+  - first:
+      213: -4039473875451688988
+    second: JohnSprite_95
+  - first:
+      213: -8378474406018402057
+    second: JohnSprite_96
+  - first:
+      213: -8037993660876050250
+    second: JohnSprite_97
+  - first:
+      213: 6145818696591392259
+    second: JohnSprite_98
+  - first:
+      213: 4008436584583472962
+    second: JohnSprite_99
+  - first:
+      213: 5349062365064087950
+    second: JohnSprite_100
+  - first:
+      213: 251353511825026816
+    second: JohnSprite_101
+  - first:
+      213: 5415917956309694353
+    second: JohnSprite_102
+  - first:
+      213: 1062969288578941453
+    second: JohnSprite_103
+  - first:
+      213: -966657014263503220
+    second: JohnSprite_104
+  - first:
+      213: -8628758343616402246
+    second: JohnSprite_105
+  - first:
+      213: -4626014597948039057
+    second: JohnSprite_106
+  - first:
+      213: 2154119151102515270
+    second: JohnSprite_107
+  - first:
+      213: -7530493208498126350
+    second: JohnSprite_108
+  - first:
+      213: 1663188019629934372
+    second: JohnSprite_109
+  - first:
+      213: -5845063909749131439
+    second: JohnSprite_110
+  - first:
+      213: 7733501803001547014
+    second: JohnSprite_111
+  - first:
+      213: -8632500087847254384
+    second: JohnSprite_112
+  - first:
+      213: -1617144886073190177
+    second: JohnSprite_113
+  - first:
+      213: -4229795321871922645
+    second: JohnSprite_114
+  - first:
+      213: -1230479038922980627
+    second: JohnSprite_115
+  - first:
+      213: -112801814463482677
+    second: JohnSprite_116
+  - first:
+      213: -4097211581443416552
+    second: JohnSprite_117
+  - first:
+      213: 3860745996401054457
+    second: JohnSprite_118
+  - first:
+      213: 6816377499536845578
+    second: JohnSprite_119
+  - first:
+      213: -3923055372522560019
+    second: JohnSprite_120
+  - first:
+      213: -2324139538737234530
+    second: JohnSprite_121
+  - first:
+      213: 8709560617152770729
+    second: JohnSprite_122
+  - first:
+      213: -6781996755711459423
+    second: JohnSprite_123
+  - first:
+      213: 1847959536216885105
+    second: JohnSprite_124
+  - first:
+      213: -7197303596081184921
+    second: JohnSprite_125
+  - first:
+      213: 6284638778003308870
+    second: JohnSprite_126
+  - first:
+      213: 2853898584518490320
+    second: JohnSprite_127
+  - first:
+      213: -2580898560240947400
+    second: JohnSprite_128
+  - first:
+      213: 8898831992444623452
+    second: JohnSprite_129
+  - first:
+      213: -6766380398562771281
+    second: JohnSprite_130
+  - first:
+      213: -21397261574808070
+    second: JohnSprite_131
+  - first:
+      213: 2209513625475568500
+    second: JohnSprite_132
+  - first:
+      213: 3985203715356014998
+    second: JohnSprite_133
+  - first:
+      213: -38636726179403323
+    second: JohnSprite_134
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JohnSprite_2
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1082
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9b8704539663d90800000000000000
+      internalID: -7118386483576653324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JohnSprite_3
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1082
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2af799c98b469960800000000000000
+      internalID: 7608351675653814828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JohnSprite_4
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1082
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2670ef4a3047dd40800000000000000
+      internalID: 5609022480105633327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JohnSprite_5
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1082
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39743a5c54fa60c0800000000000000
+      internalID: -4581580993408501444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JohnSprite_7
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1082
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466fd01d348937460800000000000000
+      internalID: 7238296443152103012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JohnSprite_9
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1082
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac9fec131bdb0820800000000000000
+      internalID: 2885640861397261479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JohnSprite_10
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1082
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe6c00f8bf7bdc70800000000000000
+      internalID: 8996925112880754362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JohnSprite_12
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 929
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316f1b8c6b7fa3160800000000000000
+      internalID: 7006184534751442451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JohnSprite_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 929
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8da5052dee73970800000000000000
+      internalID: 8734712589367040225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JohnSprite_15
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 929
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a103b18057729380800000000000000
+      internalID: -8965972720484154969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JohnSprite_16
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 929
+        width: 98
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f645eb980d9ae00800000000000000
+      internalID: 1056604877617393510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JohnSprite_19
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 929
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f724fc59fd28b2e0800000000000000
+      internalID: -2109885876393465872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JohnSprite_20
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 929
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b51e9de644213f0800000000000000
+      internalID: -931606930019755204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JohnSprite_21
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 929
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9131e7857958b9b00800000000000000
+      internalID: 836409040878572313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JohnSprite_22
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 929
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a8f2cf093b5e940800000000000000
+      internalID: 5324859569723116043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JohnSprite_29
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 775
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66155f9fde791e270800000000000000
+      internalID: 8278064638440329574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JohnSprite_30
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 775
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99130556702b57310800000000000000
+      internalID: 1402222603830047129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JohnSprite_31
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 775
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95048cc675a42e9e0800000000000000
+      internalID: -1593629578788061095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JohnSprite_32
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 775
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0af60342bd5e1be0800000000000000
+      internalID: -1504662205285074418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JohnSprite_33
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 775
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ec965a3b7f62320800000000000000
+      internalID: 2532984191388864073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JohnSprite_34
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 775
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a1fad9fa2c384d0800000000000000
+      internalID: -3133446856199169487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JohnSprite_36
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 775
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2129683ec1550cb60800000000000000
+      internalID: 7764299340151427602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JohnSprite_38
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 775
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909209eb370fa1880800000000000000
+      internalID: -8639328555247851255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JohnSprite_39
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1082
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0955f2ce4438140800000000000000
+      internalID: 4720692615611519144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JohnSprite_43
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 619
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e55fe1d663fd9d4c0800000000000000
+      internalID: -4262130147477490338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JohnSprite_44
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 619
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2b459d521c732a0800000000000000
+      internalID: -6757720347541982558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JohnSprite_47
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 619
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d015388c530bbc0800000000000000
+      internalID: -3769453752796246721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JohnSprite_48
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 619
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f670650ede32c5510800000000000000
+      internalID: 1539144677231822703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JohnSprite_49
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 619
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cdba9ce817d38cf0800000000000000
+      internalID: -251120652153864764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JohnSprite_50
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 619
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91e52ed01db9df40800000000000000
+      internalID: 5753837879086670234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JohnSprite_51
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 619
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7480c32109ad8a0800000000000000
+      internalID: -6279548322423748663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JohnSprite_52
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 619
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20725e77a4a91910800000000000000
+      internalID: 1808657764651790378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JohnSprite_57
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 468
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e8f30afc94eb6c0800000000000000
+      internalID: -4125779052529217930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JohnSprite_62
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 468
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6d33040cc2cfbe0800000000000000
+      internalID: -1442228576442919221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JohnSprite_63
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 468
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c3d7a213cc67610800000000000000
+      internalID: 1618705627624586316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JohnSprite_64
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 468
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126845ee5dffa5a60800000000000000
+      internalID: 7663719010215953953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JohnSprite_66
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 468
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291587dc7d20a2480800000000000000
+      internalID: -8923316585792777838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JohnSprite_69
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 468
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f5f88cdb8546d80800000000000000
+      internalID: -8258378244553744576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JohnSprite_70
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 468
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4593be3fe871ad0800000000000000
+      internalID: -2731557470702316320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JohnSprite_72
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 468
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6796b1dadbc72f1b0800000000000000
+      internalID: -5624295830537410186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JohnSprite_74
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 171
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d77af5ff7d376f0800000000000000
+      internalID: -687968826236109562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JohnSprite_83
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 321
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2b2222eb202dc10800000000000000
+      internalID: 2076725393810961113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JohnSprite_85
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 321
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63465e55597bd3a0800000000000000
+      internalID: -6639579818065771669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JohnSprite_88
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 321
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a3ecd60f39ba040800000000000000
+      internalID: 4659980900288576136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JohnSprite_90
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 321
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ef9455a7b734920800000000000000
+      internalID: 2973355944341798418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JohnSprite_92
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 321
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf8d0cfa25958890800000000000000
+      internalID: -7456389596192075850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JohnSprite_94
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 321
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3f5982655981900800000000000000
+      internalID: 655437943063049199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JohnSprite_95
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 321
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e74b3e89e7e0f7c0800000000000000
+      internalID: -4039473875451688988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JohnSprite_96
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 321
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f832953beda9bb80800000000000000
+      internalID: -8378474406018402057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JohnSprite_103
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 171
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02c5e4afec60ce00800000000000000
+      internalID: 1062969288578941453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JohnSprite_104
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 171
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c862f2d219eb592f0800000000000000
+      internalID: -966657014263503220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JohnSprite_108
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 171
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f14afb33505e7790800000000000000
+      internalID: -7530493208498126350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JohnSprite_109
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 171
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4274ab021b4d41710800000000000000
+      internalID: 1663188019629934372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JohnSprite_110
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 171
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15772f1b75922eea0800000000000000
+      internalID: -5845063909749131439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JohnSprite_111
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 171
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60900cd7aeae25b60800000000000000
+      internalID: 7733501803001547014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JohnSprite_113
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 171
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8944b4b4fbe89e0800000000000000
+      internalID: -1617144886073190177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JohnSprite_118
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 29
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f21f735700249530800000000000000
+      internalID: 3860745996401054457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JohnSprite_119
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 29
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0bebda9833a89e50800000000000000
+      internalID: 6816377499536845578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JohnSprite_120
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 29
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5ea968ce18e89c0800000000000000
+      internalID: -3923055372522560019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JohnSprite_121
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 29
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d7021476ffebfd0800000000000000
+      internalID: -2324139538737234530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JohnSprite_122
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 29
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a27f1f6c339ed870800000000000000
+      internalID: 8709560617152770729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JohnSprite_123
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 29
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af77fb12e181e1a0800000000000000
+      internalID: -6781996755711459423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JohnSprite_124
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 29
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177c083486545a910800000000000000
+      internalID: 1847959536216885105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JohnSprite_125
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 29
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f70f6238a0e1c90800000000000000
+      internalID: -7197303596081184921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 46c946a3da5cba34183b88ffd12aa311
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceOnImport
+        value: False
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      JohnSprite_0: -2575985625762253399
+      JohnSprite_1: -5307884875945838035
+      JohnSprite_10: 8996925112880754362
+      JohnSprite_100: 5349062365064087950
+      JohnSprite_101: 251353511825026816
+      JohnSprite_102: 5415917956309694353
+      JohnSprite_103: 1062969288578941453
+      JohnSprite_104: -966657014263503220
+      JohnSprite_105: -8628758343616402246
+      JohnSprite_106: -4626014597948039057
+      JohnSprite_107: 2154119151102515270
+      JohnSprite_108: -7530493208498126350
+      JohnSprite_109: 1663188019629934372
+      JohnSprite_11: 1237580443646224024
+      JohnSprite_110: -5845063909749131439
+      JohnSprite_111: 7733501803001547014
+      JohnSprite_112: -8632500087847254384
+      JohnSprite_113: -1617144886073190177
+      JohnSprite_114: -4229795321871922645
+      JohnSprite_115: -1230479038922980627
+      JohnSprite_116: -112801814463482677
+      JohnSprite_117: -4097211581443416552
+      JohnSprite_118: 3860745996401054457
+      JohnSprite_119: 6816377499536845578
+      JohnSprite_12: 7006184534751442451
+      JohnSprite_120: -3923055372522560019
+      JohnSprite_121: -2324139538737234530
+      JohnSprite_122: 8709560617152770729
+      JohnSprite_123: -6781996755711459423
+      JohnSprite_124: 1847959536216885105
+      JohnSprite_125: -7197303596081184921
+      JohnSprite_126: 6284638778003308870
+      JohnSprite_127: 2853898584518490320
+      JohnSprite_128: -2580898560240947400
+      JohnSprite_129: 8898831992444623452
+      JohnSprite_13: 8356106812296660646
+      JohnSprite_130: -6766380398562771281
+      JohnSprite_131: -21397261574808070
+      JohnSprite_132: 2209513625475568500
+      JohnSprite_133: 3985203715356014998
+      JohnSprite_134: -38636726179403323
+      JohnSprite_14: 8734712589367040225
+      JohnSprite_15: -8965972720484154969
+      JohnSprite_16: 1056604877617393510
+      JohnSprite_17: 6777500891971017291
+      JohnSprite_18: 665550028833393609
+      JohnSprite_19: -2109885876393465872
+      JohnSprite_2: -7118386483576653324
+      JohnSprite_20: -931606930019755204
+      JohnSprite_21: 836409040878572313
+      JohnSprite_22: 5324859569723116043
+      JohnSprite_23: -6961499420249501772
+      JohnSprite_24: -7719224393600585242
+      JohnSprite_25: -2040909569630102450
+      JohnSprite_26: 8816640867213275173
+      JohnSprite_27: 9106503629468376320
+      JohnSprite_28: 2040739689119114046
+      JohnSprite_29: 8278064638440329574
+      JohnSprite_3: 7608351675653814828
+      JohnSprite_30: 1402222603830047129
+      JohnSprite_31: -1593629578788061095
+      JohnSprite_32: -1504662205285074418
+      JohnSprite_33: 2532984191388864073
+      JohnSprite_34: -3133446856199169487
+      JohnSprite_35: -1462942057587498658
+      JohnSprite_36: 7764299340151427602
+      JohnSprite_37: 1625864381442984851
+      JohnSprite_38: -8639328555247851255
+      JohnSprite_39: 4720692615611519144
+      JohnSprite_4: 5609022480105633327
+      JohnSprite_40: 2332902855384565141
+      JohnSprite_41: -1076106496279247356
+      JohnSprite_42: 5528631814496476533
+      JohnSprite_43: -4262130147477490338
+      JohnSprite_44: -6757720347541982558
+      JohnSprite_45: 5580816119644989121
+      JohnSprite_46: -1167988669454551932
+      JohnSprite_47: -3769453752796246721
+      JohnSprite_48: 1539144677231822703
+      JohnSprite_49: -251120652153864764
+      JohnSprite_5: -4581580993408501444
+      JohnSprite_50: 5753837879086670234
+      JohnSprite_51: -6279548322423748663
+      JohnSprite_52: 1808657764651790378
+      JohnSprite_53: 4808695673807188849
+      JohnSprite_54: -1132545201949801475
+      JohnSprite_55: 495435651184905474
+      JohnSprite_56: -7469994676465998871
+      JohnSprite_57: -4125779052529217930
+      JohnSprite_58: -8217546647442351032
+      JohnSprite_59: -8048574319297116474
+      JohnSprite_6: 1511062004042738550
+      JohnSprite_60: 7921498235676809940
+      JohnSprite_61: 8979934043826011156
+      JohnSprite_62: -1442228576442919221
+      JohnSprite_63: 1618705627624586316
+      JohnSprite_64: 7663719010215953953
+      JohnSprite_65: -927754054338735084
+      JohnSprite_66: -8923316585792777838
+      JohnSprite_67: 3086910999925850740
+      JohnSprite_68: 3408109800697506526
+      JohnSprite_69: -8258378244553744576
+      JohnSprite_7: 7238296443152103012
+      JohnSprite_70: -2731557470702316320
+      JohnSprite_71: -7285714936171937344
+      JohnSprite_72: -5624295830537410186
+      JohnSprite_73: 752342012700233801
+      JohnSprite_74: -687968826236109562
+      JohnSprite_75: 4002519409767734826
+      JohnSprite_76: -2830475584635330209
+      JohnSprite_77: -547232296048050780
+      JohnSprite_78: 2058728635147986370
+      JohnSprite_79: -6105072175085686140
+      JohnSprite_8: -112191444809187522
+      JohnSprite_80: -5723563403137238865
+      JohnSprite_81: -2609821766974342030
+      JohnSprite_82: 1209200312924082008
+      JohnSprite_83: 2076725393810961113
+      JohnSprite_84: 4906164761835612654
+      JohnSprite_85: -6639579818065771669
+      JohnSprite_86: 1448927811737087017
+      JohnSprite_87: 5907372487073515179
+      JohnSprite_88: 4659980900288576136
+      JohnSprite_89: 5644836155926634913
+      JohnSprite_9: 2885640861397261479
+      JohnSprite_90: 2973355944341798418
+      JohnSprite_91: -729227828219215321
+      JohnSprite_92: -7456389596192075850
+      JohnSprite_93: 7555237779118844435
+      JohnSprite_94: 655437943063049199
+      JohnSprite_95: -4039473875451688988
+      JohnSprite_96: -8378474406018402057
+      JohnSprite_97: -8037993660876050250
+      JohnSprite_98: 6145818696591392259
+      JohnSprite_99: 4008436584583472962
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
